@@ -1,7 +1,7 @@
 {
   "name": "CHINTU BABA",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "MeraChela",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "calok1010"
     },
     "anti-afk": {
       "enabled": true,
